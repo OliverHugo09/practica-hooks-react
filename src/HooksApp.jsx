@@ -4,6 +4,7 @@ import { ContadorComponent } from "./components/ContadorComponent"
 import { FormularioComponent } from "./components/FormularioComponent"
 import { ListaTareas } from "./components/ListaTareas"
 import { UsuariosComponent } from "./components/UsuariosComponent"
+import { Incrementar } from "./components/Incrementar"
 
 export const HooksApp = () => {
     return (
